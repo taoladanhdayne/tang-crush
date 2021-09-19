@@ -13,7 +13,7 @@ const CONFIG = {
     question:'muốn hát tiếp hông <3',
     btnReply: 'ok <3',
     reply: 'đếm bao ngày xuân đi qua 
-    Xin phép gia đình mẹ cha 
+    Xin phép gia đình mẹ chaa 
     cho rước e về làm dâu 
     2 đứa sau này làm giàu<33333333',
     mess: 'trời ơiiiiiii 😘😘',
